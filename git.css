@@ -6,10 +6,11 @@
 	margin: auto;
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
 }
 .ne-rod-1, .ne-rod-2 {
-	width: 520px;
-	height: 520px;
+	width: 540px;
+	height: 540px;
 }
 img {
 	width: 100%;
